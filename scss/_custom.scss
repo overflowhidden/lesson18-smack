@@ -1,0 +1,10 @@
+@import "variables";
+$container-max-widths: (
+  xl: 1170px,
+) !default;
+$font-family-sans-serif: "Oswald", sans-serif;
+$font-weight-base: 300;
+$body-color: $body-color-default;
+$navbar-nav-link-padding-x: 26px;
+$nav-link-font-size: 14px;
+$nav-link-color: #fff;
